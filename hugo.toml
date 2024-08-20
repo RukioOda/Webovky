@@ -1,0 +1,53 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = "cs"
+languageCode = "en"
+
+title = "Horákovic 3D studio"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "About"
+
+    url = "/About"
+    
+    # You can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+
+    # You can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+
+    # Display name
+    name = "O nás"
+
+    # Weights are used to determine the ordering
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Kontakt"
+    url = "/Contact"
+    weight = 2
+    
+  [[menu.main]]
+    identifier = "Shop"
+    url = "/Shop"
+#name="Měl bych zájem o váš produkt"
+    weight = 3
+    
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='shopping-cart'></span>"
+[params]
+  avatarURL =  "/icons/Horakovic-3d-symbol-FB.jpg"
+ avatarSize = "size-m"
+accentColor = "#16a085"
+footer = "Horákovic"
+socialIcons = [
+      {name = "instagram", url = "https://www.instagram.com/horakovic3d/"},
+      {name = "facebook", url = "https://www.facebook.com/horakovic.cz"},
+    ]

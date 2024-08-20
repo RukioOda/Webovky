@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horákovic 3D studio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Horákovic 3D studio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/index-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/index-about/</guid>
+      <description>&#xA;3d tisk je naše práce a zábava </description>
+    </item>
+    <item>
+      <title>Chci využít vaše služby</title>
+      <link>http://localhost:1313/shop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shop/</guid>
+      <description>Pokud chcete využít naše služby máte 2 možnosti:&#xA;Podíváte se na náš Eshop Pokud chcete něco co není na eshopu, můžeme vám produkt vyvinout a vytisknout Poptávka Nezávazná poptávka&#xA;Eshop Náš eshop</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Email:info@horakovic.cz&#xA;Telefon:+420 722 819 013&#xA;Prodejna Budapešťská 3 Praha Hotivař&#xA;Zde je naše prodejna:&#xA;Google mapy</description>
+    </item>
+    <item>
+      <title>Naše Studio</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>O Nás Vítejte ve 3D studiu Horákovic bratří. Jsme firma, zabívající se 3D tiskem. Od zakázkového tisku po vlastní designové a inovativní produkty. Potřebujete navrhnout nový produkt, prototyp nebo třeba díly, které jsou těžko dostupné? Pak jste tu správně. Nabízíme zkušenost, individuální přístup a rychlé dodání.&#xA;Proč jsme tu? Chceme dělat to, co nás baví, tedy vymýšlet a tvořit produkty, které budou na míru Vám, Vašim potřebám či hodící se do designu Vašeho obýváku či kanceláře.</description>
+    </item>
+  </channel>
+</rss>
